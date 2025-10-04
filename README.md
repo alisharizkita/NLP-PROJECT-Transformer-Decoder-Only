@@ -1,2 +1,2 @@
-# NLP-PROJECT---Transformer-Decoder-Only-
+# NLP PROJECT-Transformer (Decoder Only)
 Natural Language Processing Project
