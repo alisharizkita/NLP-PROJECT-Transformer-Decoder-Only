@@ -1,0 +1,8 @@
+# Requirements untuk Transformer from Scratch
+# ============================================
+
+# Core dependency - WAJIB
+numpy>=1.24.0
+
+# Visualization - OPSIONAL
+matplotlib>=3.7.0
