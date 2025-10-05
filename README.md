@@ -40,15 +40,22 @@ Output Layer
 
 ### 1. Clone Repository
 
+```bash
 git clone https://github.com/username/transformer-from-scratch.git
 cd transformer-from-scratch
+```
 
 ### 2. Install the Dependencies
 
 Make sure that Python ≥ 3.8 is installed, then intall all the dependencies required by :
 
+
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run Transformer
 
+```bash
 python transformer.py
+```
